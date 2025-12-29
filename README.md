@@ -35,32 +35,23 @@ Driver Class:
 
     The Driver class stores information about the driver. It includes the driver’s name and license number. One driver can be assigned to different vehicles in the program.
 
-/
+-----------------------------------------------------------------------------------
 
-/
-
-/
 
 C) To run the program, open the terminal in the project folder and use the following commands:
 
     javac *.java
     java Main
 
-/
+-----------------------------------------------------------------------------------
 
-/
-
-/
 
 D) 
 
     The program asks the user to enter information about the driver and vehicles. After that, it creates different vehicle objects and assigns drivers to them. All vehicles are stored in an array and processed using a loop. The program then displays vehicle information and starts and stops each engine.
 
-/
+-----------------------------------------------------------------------------------
 
-/
-
-/
 
 E) 
 
