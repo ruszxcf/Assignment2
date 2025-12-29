@@ -1,7 +1,11 @@
 A) This project is a simple Java program that was created to practice Object-Oriented Programming. The main goal of this project is to understand how classes, objects, and methods work together in Java. The program works with different types of vehicles and drivers. It shows how inheritance and abstraction can be used to organize code in a clean and logical way. The user enters data from the keyboard, and the program processes this data and shows the result.
+
 /
+
 /
+
 /
+
 B) 
 Vehicle Class:
 
@@ -34,22 +38,34 @@ Truck Class:
 Driver Class:
 
     The Driver class stores information about the driver. It includes the driver’s name and license number. One driver can be assigned to different vehicles in the program.
+
 /
+
 /
+
 /
+
 C) To run the program, open the terminal in the project folder and use the following commands:
 
     javac *.java
     java Main
+
 /
+
 /
+
 /
+
 D) 
 
     The program asks the user to enter information about the driver and vehicles. After that, it creates different vehicle objects and assigns drivers to them. All vehicles are stored in an array and processed using a loop. The program then displays vehicle information and starts and stops each engine.
+
 /
+
 /
+
 /
+
 E) 
 
     This project helped me understand how Object-Oriented Programming works in Java. I learned how to use inheritance to reduce code repetition and how abstract classes help organize the program structure. I also learned how to work with arrays of objects and how to connect different classes together. This project helped me improve my Java skills and understand OOP concepts better.
