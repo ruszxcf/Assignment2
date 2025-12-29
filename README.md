@@ -1,10 +1,6 @@
 A) This project is a simple Java program that was created to practice Object-Oriented Programming. The main goal of this project is to understand how classes, objects, and methods work together in Java. The program works with different types of vehicles and drivers. It shows how inheritance and abstraction can be used to organize code in a clean and logical way. The user enters data from the keyboard, and the program processes this data and shows the result.
 
-/
-
-/
-
-/
+-----------------------------------------------------------------------------------
 
 B) 
 Vehicle Class:
